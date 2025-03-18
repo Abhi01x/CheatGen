@@ -6,7 +6,8 @@
 
 A modern web application that leverages AI to generate comprehensive, well-structured cheat sheets for any technical topic. Perfect for developers, students, and technical professionals who need quick reference guides.
 
-![CheatGen Demo](/placeholder.svg?height=400&width=800)
+![CheatGen Demo](https://raw.githubusercontent.com/Abhi01x/CheatGen/refs/heads/main/Screenshot%202025-03-18%20223331.png)
+Live Link - https://v0-ai-powered-cheat-sheet.vercel.app/
 
 ## 🚀 Features
 
