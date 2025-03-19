@@ -80,7 +80,7 @@ export function CheatSheetForm() {
           </div>
 
           <div className="text-xs text-slate-500 dark:text-slate-400 italic">
-            Generation typically takes 15-30 seconds depending on the complexity of the topic.
+            Generation typically takes 15-30 seconds depending on the complexity of the topic
           </div>
         </form>
       </CardContent>
