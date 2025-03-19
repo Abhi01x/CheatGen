@@ -13,7 +13,7 @@ Live Link - https://v0-ai-powered-cheat-sheet.vercel.app/
 
 - **AI-Powered Generation**: Creates detailed cheat sheets using OpenAI's GPT-4o model
 - **Topic Flexibility**: Generate cheat sheets for any technical topic (programming languages, frameworks, tools, etc.)
-- **Well-Structured Format**: Automatically organizes information into logical sections with examples
+- **Well-Structured Format**: Automatically organizes information into logical sections with examples.
 - **PDF Export**: Download generated cheat sheets as PDF files for offline reference
 - **Search Functionality**: Quickly find specific commands or concepts within your cheat sheet
 - **Filter Options**: Filter content by categories (concepts, commands, examples)
