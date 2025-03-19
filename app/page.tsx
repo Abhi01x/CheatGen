@@ -11,6 +11,9 @@ export default function Home() {
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
             Create comprehensive, well-structured cheat sheets for any technical topic in seconds using AI.
+            
+            //IF ITS NOT WORK THE OPENAI LIMIT IS REACHED//
+            
           </p>
         </div>
 
